@@ -2,7 +2,7 @@
 
 I'm **Lydex**, beginning Russian solo indie-game developer. I do all my projects only on Godot Engine 🤖
 
-## 💬 I am
+## 💬 I am...
 - Technician in program sphere (*not hardware*, for now)
 - Designer 
 - 2D/3D artist
