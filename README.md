@@ -23,6 +23,7 @@ I am:
 - Mastodon (no link at the moment)
 - GameJolt
 - YouTube
+- Discord
 - Steam (no link at the moment)
 - Telegram
 
