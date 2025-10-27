@@ -2,7 +2,7 @@
 
 I'm **Lydex**, beginning Russian solo indie-game developer. I do all my projects only on Godot Engine 🤖
 
-## 💬 I am...
+## 💬 Also I'm...
 - Technician in program sphere (*not hardware*, for now)
 - Designer 
 - 2D/3D artist
@@ -30,6 +30,7 @@ I'm **Lydex**, beginning Russian solo indie-game developer. I do all my projects
 - Discord
 - Steam (no link at the moment)
 - Telegram
+
 
 <!--
 **lydex256/lydex256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
