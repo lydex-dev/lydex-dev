@@ -2,27 +2,28 @@
 
 I'm **Lydex**, beginning Russian solo indie-game developer. I do all my projects only on Godot Engine 🤖
 
-## I am
+## 💬 I am
 - Technician in program sphere (*not hardware*, for now)
 - Designer 
 - 2D/3D artist
 - Screenwriter
 - Level-designer
 - Programer
+- Translator (English -> Russian)
 
-## Released games
+## 💼 Released games
 - 
 
-## Knowledges
+## 📗 Knowledges
 - Gamedev:
 - Programing:
 
-## Interests
+## 🖼️ Interests
 - Gamedev:
 - Programing:
 - Censorship bypass:
 
-## My socials
+## 📟 My socials
 - Mastodon (no link at the moment)
 - GameJolt
 - YouTube
