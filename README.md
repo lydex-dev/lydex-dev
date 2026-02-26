@@ -1,3 +1,5 @@
+# **(!) README STILL IN WORK (!)**
+
 # Hello! 😊
 
 I'm **Lydex**, beginning Russian solo indie-game developer. I do all my projects only on Godot Engine 🤖
